@@ -1,1 +1,1 @@
-# profile-pictures
+# profile-pictures-public
